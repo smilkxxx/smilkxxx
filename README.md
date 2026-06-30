@@ -59,51 +59,51 @@ Me apasiona la administración de sistemas Linux y Windows, las redes, la infrae
 
 ## 🌐 Infraestructura Web
 
-- 🔹 Reverse Proxy y Balanceo de Carga con Nginx
-- 🔹 WordPress sobre Linux
-- 🔹 Microsoft SQL Server
-- 🔹 Administración de servidores Apache
+- Reverse Proxy y Balanceo de Carga con Nginx
+- WordPress sobre Linux
+- Microsoft SQL Server
+- Administración de servidores Apache
 
 ---
 
 ## 🖥️ Windows Server
 
-- 🔹 Active Directory
-- 🔹 Administración de usuarios
-- 🔹 Group Policy (GPO)
-- 🔹 DNS
-- 🔹 Domain Controller
+- Active Directory
+- Administración de usuarios
+- Group Policy (GPO)
+- DNS
+- Domain Controller
 
 ---
 
 ## 🔥 Fortinet
 
-- 🔹 VPN Site-to-Site
-- 🔹 VPN Client-to-Site
-- 🔹 Configuración de Firewall
-- 🔹 Políticas de Seguridad
+- VPN Site-to-Site
+- VPN Client-to-Site
+- Configuración de Firewall
+- Políticas de Seguridad
 
 ---
 
 ## 🌍 Redes Cisco
 
-- 🔹 IPSec IKEv1
-- 🔹 IPSec IKEv2
-- 🔹 GRE Tunnel
-- 🔹 DMVPN Phase 2
-- 🔹 DMVPN Phase 3
-- 🔹 L2TP
+- IPSec IKEv1
+- IPSec IKEv2
+- GRE Tunnel
+- DMVPN Phase 2
+- DMVPN Phase 3
+- L2TP
 
 ---
 
 ## 🛡️ Seguridad Ofensiva (Laboratorios)
 
-- 🔹 Escaneo de Vulnerabilidades
-- 🔹 Enumeración de Servicios
-- 🔹 Privilege Escalation
-- 🔹 Metasploit Framework
-- 🔹 Wireshark
-- 🔹 Nmap
+- Escaneo de Vulnerabilidades
+- Enumeración de Servicios
+- Privilege Escalation
+- Metasploit Framework
+- Wireshark
+- Nmap
 
 ---
 
